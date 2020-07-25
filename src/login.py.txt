@@ -1,3 +1,0 @@
-# I command that login should happen
-# welcome message
-# added log messages
